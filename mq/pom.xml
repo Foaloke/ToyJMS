@@ -5,7 +5,7 @@
 	<artifactId>mq</artifactId>
 	<packaging>jar</packaging>
 	<version>0.1</version>
-	<name>mq</name>
+	<name>MQ</name>
 	<url>http://maven.apache.org</url>
 
 	<parent>
