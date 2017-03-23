@@ -1,20 +1,16 @@
 package com.amtware.toyjms.producer;
 
-import javax.jms.ConnectionFactory;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import org.apache.activemq.ActiveMQConnectionFactory;
+public class App {
 
-public class App 
-{
-    public static String brokerURL = "tcp://localhost:61616";
- 
-    public static void main( String[] args ) throws Exception
-    {
-        // setup the connection to ActiveMQ
-        ConnectionFactory factory = new ActiveMQConnectionFactory(brokerURL);
- 
-        Producer producer = new Producer(factory, "test");
-        producer.run();
-        producer.close();
-    }
+	public static void main(String[] args) throws Exception {
+
+		AnnotationConfigApplicationContext context
+			= new AnnotationConfigApplicationContext(ProducerConfiguration.class);
+
+		Producer producer = context.getBean(Producer.class);
+		producer.run();
+		context.close();
+	}
 }

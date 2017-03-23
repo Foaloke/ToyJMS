@@ -1,12 +1,14 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<?xml version="1.0"?>
+<project
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
+	xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.amtware.toyjms.consumer</groupId>
-	<artifactId>consumer</artifactId>
+	<groupId>com.amtware.toyjms.configuration</groupId>
+	<artifactId>configuration</artifactId>
 	<packaging>jar</packaging>
-	<version>0.1</version>
-	<name>Consumer</name>
+	<version>1.0</version>
+	<name>Configuration</name>
 
 	<parent>
 		<groupId>com.amtware.toyjms</groupId>
@@ -17,9 +19,9 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>com.amtware.toyjms.configuration</groupId>
-			<artifactId>configuration</artifactId>
-			<version>1.0</version>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+			<version>4.3.7.RELEASE</version>
 		</dependency>
 		<dependency>
 			<groupId>javax.jms</groupId>
@@ -32,7 +34,6 @@
 			<version>5.2.0</version>
 		</dependency>
 	</dependencies>
-
 	<repositories>
 		<repository>
 			<id>jboss</id>
@@ -44,4 +45,5 @@
 			</snapshots>
 		</repository>
 	</repositories>
+
 </project>
