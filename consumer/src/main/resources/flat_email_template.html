@@ -1,0 +1,116 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+
+<style type="text/css">
+html, body, .main {
+	width: 100%;
+	margin: 0;
+	border: 0;
+	background-color: #001123;
+	text-color: #001123;
+}
+
+.main {
+	width: 350px;
+	margin: auto;
+}
+
+a {
+  color: #001123;
+  text-decoration: none;
+}
+
+.banner {
+	height: 120px;
+	min-height: 100px;
+	background-color: #799E85;
+	text-align: center;
+}
+
+.banner .text {
+	font-size: 20px;
+	font-weight: bold;
+	color: #E8ECF2;
+}
+
+.entry {
+	height: 150px;
+	background-color: #314943;
+	margin: 5px 0;
+}
+
+.entry .header {
+	height: 25px;
+	padding-top: 5px;
+	text-align: center;
+	background-color: #B1EFC0;
+	font-size: 11px;
+	font-weight: bold;
+}
+
+.entry .header span {
+	margin: 0 5px;
+}
+
+.entry .info {
+	height: 120px;
+	background-color: #E8ECF2;
+}
+
+.entry .info .picture {
+	max-width: 150px;
+	max-height: 120px;
+	margin: 5px 0; float : left;
+	text-align: center;
+	float: left;
+}
+
+.entry .info .description {
+	width: 200px;
+	height: 120px;
+	font-size: 10px;
+	float: right;
+}
+
+.entry .info .description .text {
+	padding: 10px;
+}
+</style>
+
+</head>
+<body>
+	<div class="main">
+		<div class="banner">
+			<img class="logo"
+				src="http://orig07.deviantart.net/7d08/f/2013/054/0/3/monito_png_by_mituesposito-d5vz7xs.png"
+				width="110" height="93">
+			<div class="text">${bannerText}</div>
+		</div>
+		<#list flatInfo as entry>
+		<div class="entry">
+			<div class="header">
+				<a href="${entry.link}">
+					<span class="price">${entry.price}</span>
+					<span class="text">${entry.shortHeader}</span>
+					<br/>
+					<span class="date">${entry.date}</span>
+				</a>
+			</div>
+			<div class="info">
+				<div class="picture">
+					<a href="${entry.link}">
+						<img src="${entry.image}" width="100" height="100">
+					</a>
+				</div>
+				<div class="description">
+					<div class="text">
+						<a href="${entry.link}">${entry.shortDesc}</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		</#list>
+	</div>
+</body>
+</html>

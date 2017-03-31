@@ -27,4 +27,9 @@ public class JMSConfiguration {
 		}
 	}
 
+	@Bean
+	public HttpRequestor httpRequestor() {
+		return new HttpRequestor();
+	}
+
 }

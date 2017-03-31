@@ -16,7 +16,7 @@ you should be able to connect to the database on the  image via
 
 ## Launch ActiveMQ:
 
-`mvn org.apache.activemq.tooling:maven-activemq-plugin:5.2.0:run`
+`mvn activemq:run` from the `/mq` folder, use `jconsole` with the given jmx address that appears on process startup `e.g service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi`
 
 ## Launch Producer:
 

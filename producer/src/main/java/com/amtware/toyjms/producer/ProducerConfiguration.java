@@ -1,9 +1,6 @@
 package com.amtware.toyjms.producer;
 
-import java.io.IOException;
-import java.net.URISyntaxException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
+import java.util.List;
 import java.util.stream.Stream;
 
 import javax.jms.JMSException;
@@ -14,22 +11,32 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
+import org.springframework.context.annotation.FilterType;
 import org.springframework.context.annotation.Import;
 
 import com.amtware.toyjms.configuration.JMSConfiguration;
-import com.google.common.io.Resources;
+import com.amtware.toyjms.producer.web.adinfo.extractor.AdInfoExtractor;
+import com.amtware.toyjms.producer.web.webfacade.WebFacade;
+import com.amtware.toyjms.producer.web.webfacade.WebFacadeMultiplePages;
 
 @Configuration
 @Import(JMSConfiguration.class)
-@ComponentScan("com.amtware.toyjms.producer")
+@ComponentScan(
+	basePackages = "com.amtware.toyjms.producer",
+    includeFilters = @ComponentScan.Filter(
+        type = FilterType.ASSIGNABLE_TYPE,
+        value = AdInfoExtractor.class
+    )
+)
 public class ProducerConfiguration {
-
-    private static final String WORDS_LIST_PATH = "word_list.txt";
 
 	private static final String QUEUE_NAME = "toyjms";
 
 	@Autowired
 	Session session;
+
+	@Autowired
+	List<AdInfoExtractor<?>> adInfoExtractors;
 
 	@Bean
 	public MessageProducer messageProducer() {
@@ -42,11 +49,12 @@ public class ProducerConfiguration {
 
 	@Bean
 	public Stream<String> initRequests() {
-		try {
-			return Files.lines(Paths.get(Resources.getResource(WORDS_LIST_PATH).toURI()));
-		} catch (IOException | URISyntaxException e) {
-			throw new IllegalStateException("Request initialization failed", e);
-		}
+		return this.webFacade().getCommands();
+	}
+
+	@Bean
+	public WebFacade webFacade() {
+		return new WebFacadeMultiplePages(this.adInfoExtractors);
 	}
 
 }

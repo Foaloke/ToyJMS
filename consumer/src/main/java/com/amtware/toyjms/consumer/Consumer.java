@@ -1,5 +1,7 @@
 package com.amtware.toyjms.consumer;
 
+import java.util.Observable;
+
 import javax.jms.JMSException;
 import javax.jms.Message;
 import javax.jms.MessageConsumer;
@@ -11,14 +13,21 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Component
-public class Consumer implements MessageListener {
+public class Consumer extends Observable implements MessageListener {
 	private static final Logger LOGGER = Logger.getLogger(Consumer.class);
 
 	@Autowired
 	private MessageConsumer messageConsumer;
 
+	@Autowired
+	private MessageReader messageReader;
+
+	@Autowired
+	private EmailSender emailSender;
+
 	public void run() {
 		try {
+			this.addObserver(this.emailSender);
 			this.messageConsumer.setMessageListener(this);
 		} catch (JMSException e) {
 			throw new IllegalStateException("Could not run the Consumer", e);
@@ -29,8 +38,13 @@ public class Consumer implements MessageListener {
 	public void onMessage(Message message) {
 		try {
 			if (message instanceof TextMessage) {
-				TextMessage txtMessage = (TextMessage) message;
-				System.out.println(txtMessage.getText());
+				String text = ((TextMessage) message).getText();
+
+				LOGGER.debug("Received: "+text);
+
+				this.setChanged();
+				messageReader.readFromMessage(text).ifPresent(this::notifyObservers);
+
 			}
 		} catch (JMSException e) {
 			LOGGER.warn(
@@ -38,5 +52,4 @@ public class Consumer implements MessageListener {
 				e);
 		}
 	}
-
 }

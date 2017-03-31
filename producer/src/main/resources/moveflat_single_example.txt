@@ -1,0 +1,624 @@
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<META name='description' content='London Brick Lane / Spitalfields most popular quality flatshare site with 1179 ads for flat share property and accommodation rental in London'> 
+<META name='keywords' content='London, Brick Lane / Spitalfields,flatshare,flat share, flatsharing,accommodation, rent, flat, share, room, bedsit, roommate, flatmate, renting, sharing, flatshares, flats, property' >
+<META NAME='ROBOTS' CONTENT='NOARCHIVE' >
+<META Http-Equiv='Cache-Control' Content='no-cache' >
+<META Http-Equiv='Pragma' Content='no-cache' >
+
+<meta http-equiv="Page-Enter" content="Alpha(opacity=100)">
+
+	<TITLE>London Brick Lane / Spitalfields e1 550pcm</TITLE>
+
+<LINK REL=StyleSheet href="/movestyle.css" TYPE="text/css" >
+
+</head>
+
+<body id=bdy >
+<div class=wrapper >
+
+
+<div style='float:right;text-align:right;font-weight:bold;' class=col >
+	<a href='/' class=col id=floatMenu> Home</a> &nbsp; &nbsp;
+
+			 <A href='/Mail.aspx?ID=[ID]' class=col onClick="var mailwindow = window.open('/Calculator.html', 'Calculator', 'height=400,width=400,scrollbars=no,resizable=yes'); return false;" target="_blank" >Calculator</a>
+ &nbsp;  &nbsp; 
+
+	<a class=col onmouseover="spp(this,'/GMap3Response.aspx');return false;" href='javascript:return false;'>Menu / Help</a> &nbsp; &nbsp;
+		<a  href='/Login.aspx' class='col bld'>Login</a> &nbsp; &nbsp;
+
+	<a  title='Place a flatshare ad or an ad for self-contained flat or house on MoveFlat.' href='/cgi-bin/AdFilter.aspx' class='col bld'>Place an ad</a>
+	<br><br>
+	
+	<form name=fm action='/Area.aspx' onsubmit="this.Path.value='My/'+this.word.value.replace(/'/,'');setCookie('word',this.word.value,(new Date()).addHours(600));this.submit();">
+		<input size=10 name=word><input type=hidden name=Path><input type=submit value='Search for place or postcode'>
+	</form>
+	
+	
+</div>
+
+
+<a href='/'><img alt='London flatshare and flats to rent' src='/images/moveflat.gif' style='margin-bottom:0px;' ></a>
+
+
+
+<h2>
+London Brick Lane / Spitalfields e1 550pcm
+
+flatshare flat share and flatsharing accommodation 
+
+</h2>
+
+
+
+
+
+
+	<h1 class=pt >
+	 
+		Brick Lane / Spitalfields e1,
+
+	 
+			
+
+
+
+		 
+			 
+				3 Bed 
+			
+			Flat
+		
+
+
+
+	 
+		share
+	
+	
+
+
+	 &pound;550 
+	</h1>
+	
+	
+<table  ><tr><td>
+
+<a  style='margin:1px;'  
+onmouseover="javascript:var obj=document.getElementById('pic');obj.style.visibility='visible';obj.src='/_ImageServer.aspx?f=510141A-+.jpg&X=600';" 
+onmouseout="javascript:var obj=document.getElementById('pic');obj.style.visibility='hidden';" >
+<img border=0 style='width:80px;height:60px;' src="/_ImageServer.aspx?X=80&Y=60&f=510141A-+.jpg&t=3750" alt="London Brick Lane / Spitalfields
+  
+ Room 1" >
+</a><a  style='margin:1px;'  
+onmouseover="javascript:var obj=document.getElementById('pic');obj.style.visibility='visible';obj.src='/_ImageServer.aspx?f=510141B-+.jpg&X=600';" 
+onmouseout="javascript:var obj=document.getElementById('pic');obj.style.visibility='hidden';" >
+<img border=0 style='width:80px;height:60px;' src="/_ImageServer.aspx?X=80&Y=60&f=510141B-+.jpg&t=3750" alt="London Brick Lane / Spitalfields
+  
+ Room 2" >
+</a><a  style='margin:1px;'  
+onmouseover="javascript:var obj=document.getElementById('pic');obj.style.visibility='visible';obj.src='/_ImageServer.aspx?f=510141C-+.jpg&X=600';" 
+onmouseout="javascript:var obj=document.getElementById('pic');obj.style.visibility='hidden';" >
+<img border=0 style='width:80px;height:60px;' src="/_ImageServer.aspx?X=80&Y=60&f=510141C-+.jpg&t=3750" alt="London Brick Lane / Spitalfields
+  
+ Room 3" >
+</a><a  style='margin:1px;'  
+onmouseover="javascript:var obj=document.getElementById('pic');obj.style.visibility='visible';obj.src='/_ImageServer.aspx?f=510141D-+.jpg&X=600';" 
+onmouseout="javascript:var obj=document.getElementById('pic');obj.style.visibility='hidden';" >
+<img border=0 style='width:80px;height:60px;' src="/_ImageServer.aspx?X=80&Y=60&f=510141D-+.jpg&t=3750" alt="London Brick Lane / Spitalfields
+  
+ Room 4" >
+</a><a  style='margin:1px;'  
+onmouseover="javascript:var obj=document.getElementById('pic');obj.style.visibility='visible';obj.src='/_ImageServer.aspx?f=510141E-+.jpg&X=600';" 
+onmouseout="javascript:var obj=document.getElementById('pic');obj.style.visibility='hidden';" >
+<img border=0 style='width:80px;height:60px;' src="/_ImageServer.aspx?X=80&Y=60&f=510141E-+.jpg&t=3750" alt="London Brick Lane / Spitalfields
+  
+ Room 5" >
+</a>
+	
+<div>
+	<img alt='enlarged picture' border=1 style="position:absolute;visibility:hidden;z-index:1000;" id='pic' class='510141' >
+</div>
+
+<h3>
+		Flatshare
+		
+		 General Information
+</h3>
+	 			
+	 	<span style="background-color:#DDF;" >SHORT LET</span>		
+	 			
+	 			
+	 	<span style="background-color:lightgray" >Can smoke</span>		
+
+
+<p>
+	
+		&pound;550 Inc Util & Exc CTax<br>
+		Can smoke		
+		<br>		
+	
+
+
+	Avail Wednesday 29 March
+<br>
+
+
+
+
+
+
+	On or renewed 28 March 
+	<br>
+	 
+		
+		Flatsharing with One Male and One female
+		 (Av) age 30ish looking for 18-45
+</p>
+
+	
+
+
+
+<h3>
+		Flatshare
+		
+		 Tick Boxes
+</h3>
+<table ><tr><td>
+
+<input type=checkbox disabled   checked > Short Let<br> 
+
+ 
+
+   
+<input type=checkbox disabled   checked > Double Bed.<br> 
+<input type=checkbox disabled   checked > Double room<br> 
+
+</td><td>
+<input type=checkbox disabled   checked > Couple OK<br> 
+ 
+
+ 
+ 
+ 
+
+</td><td>
+ 
+
+ 
+
+<input type=checkbox disabled   checked > Bike OK<br> 
+		
+
+ 
+<input type=checkbox disabled   checked > Broadband<br>
+
+ <input type=checkbox disabled   checked > Central Heating<br>
+ 
+</td><td>
+<input type=checkbox disabled   checked > Washing Machine<br>
+ 
+
+<input type=checkbox disabled   checked > Dryer<br>
+ 
+ 
+
+ <input type=checkbox disabled   checked > Garden/Roof terrace<br>
+
+ 
+</td></tr></table>
+
+		<h3>
+		Flatshare 
+		
+		 Description</h3>
+
+		Hi guys<p>
+This is a great flatshare in an amazing location. 2 mins off spitalfields, 3 mins off brick lane, 5 mins off liverpool street and shoreditch high street. i am going away for a while thats why i am looking for someone. dont hesitate to drop a line and ask questions!
+		
+		 
+			<h3>Flatshare interests and occupations</h3>
+			<span style='color:#AAA' >Int:</span> film, fashion, decoration, gastronomy<p>
+			<span style='color:#AAA' >Occ:</span> Artists
+		
+
+
+
+		<h3>Contact and notebook</h3>
+		<a href="/Notebook.aspx?ID=510141&f=i" ><img alt='notebook' src='/images/notebook.jpg' style='height:15px;width:25px' > Put in My Notebook</a>
+
+
+
+		<div  id=contact>
+
+
+		<p style='font-size:0.8em' >This advertiser expressly does NOT wish to be approached by estate agents or others offering their services. Telephone numbers and e-mail links constitute personal data that is NOT placed by the advertiser to solicit approaches from agents. Doing so is a clear breach of the Data Protection Acts (misuse of personal data).</p>
+		<p>
+
+			  <A class=o9 style='float:right;' href="/MailAdReport.aspx?ID=510141" onClick="var mailwindow = window.open('/MailAdReport.aspx?ID=510141', 'mailwindow', 'height=600,width=500,scrollbars=no,resizable=yes'); return false;" target="_blank">Report a concern</a> 
+
+
+
+			 <img alt='contact name' src="/_TextImage.aspx?F=FN&ID=510141&T=636263865298073750" >
+			  
+			  &nbsp; <A href='/Mail.aspx?ID=510141' onClick="var mailwindow = window.open('/Mail.aspx?ID=510141', 'mailwindow', 'height=600,width=400,scrollbars=no,resizable=yes'); return false;" target="_blank" style='font-weight:bold;' ><img alt='email' src='/images/email.gif' > E-MAIL (pop-up)</a>
+			  &nbsp; <A href='/Mail.aspx?ID=510141&OwnPage=Y'  style='font-weight:bold;' ><img alt='email' src='/images/email.gif' > E-MAIL (non pop-up)</a>
+
+			 		
+
+			
+		</p>
+
+
+
+		</div>
+
+
+
+
+
+		 
+
+
+		 
+		<h3>Accommodation Maps</h3>
+
+
+		
+				
+
+
+<p>&nbsp;</p>
+<div>
+	<a id='map' class='tab True' href="javascript:return false;" onclick="foreach (this.parentNode.getElementsByTagName('a'),function(el){el.className='tab False';});this.className='tab True';repl();return false;">Map</a>
+	<a id='streetviewp' class='tab False' href="javascript:return false;" onclick="foreach (this.parentNode.getElementsByTagName('a'),function(el){el.className='tab False';});this.className='tab True';svv3(1);return false;">StreetView Panorama</a>
+
+	<a id='streetview' class='tab False' href="javascript:return false;" onclick="foreach (this.parentNode.getElementsByTagName('a'),function(el){el.className='tab False';});this.className='tab True';svv3(0);return false;">StreetView Static</a>
+
+
+</div>
+
+			<!--<div style="width:550px;height:550px;"  title="q=e17tq&Z=15" id="_m" ></div>-->		
+
+			<div style="width:550px;height:550px;"  title="e17tq,15" id="_m" ></div>		
+
+		
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+</td>
+
+
+
+
+
+
+<td style="padding-left:20px;" >
+
+
+		 
+				<h3>Near and Near-ish Stations</h3>
+				<div id='_mp' class='mp o9' attr='510141' ></div>
+			
+
+		
+
+<br>
+<h3>Tubes</h3>
+<table  class='grid o6'>
+
+	
+		<tr>
+			<td class=' c4 d ' title='Aldgate East Station'>District</td>
+			<td style='text-align:right' >&nbsp; 300m </td>
+		</tr>
+	
+	
+		<tr>
+			<td class=' c6 d ' title='Aldgate East Station'>Hamm' & City </td>
+			<td style='text-align:right' >&nbsp; 300m </td>
+		</tr>
+	
+	
+		<tr>
+			<td class=' c3 d ' title='Aldgate Station'>Circle</td>
+			<td style='text-align:right' >&nbsp; 400m </td>
+		</tr>
+	
+	
+		<tr>
+			<td class=' c8 d ' title='Aldgate Station'>Metropolitan</td>
+			<td style='text-align:right' >&nbsp; 400m </td>
+		</tr>
+	
+	
+		<tr>
+			<td class=' c2 d ' title='Liverpool Street Station'>Central</td>
+			<td style='text-align:right' >&nbsp; 700m </td>
+		</tr>
+	
+	
+	
+	
+	
+		<tr>
+			<td class=' c12 d ' title='Tower Gateway Station'>Docklands</td>
+			<td style='text-align:right' >&nbsp; 700m </td>
+		</tr>
+	
+	
+	
+	
+		<tr>
+			<td class=' c5 d ' title='Shoreditch High Street Station'>Overground</td>
+			<td style='text-align:right' >&nbsp; 1000m </td>
+		</tr>
+	
+	
+	
+	
+	
+	
+		<tr>
+			<td class=' c9 d ' title='Bank Station'>Northern</td>
+			<td style='text-align:right' >&nbsp; 1500m </td>
+		</tr>
+	
+	
+	
+	
+	
+	
+</table>
+<br>
+<h3>Surface Rail</h3>
+<table  class='grid o6'>
+
+	
+		<tr>
+			<td class=' c29 d ' title='Old Street Station'>To  Moorgate</td>
+			<td style='text-align:right' >&nbsp; 1900m </td>
+		</tr>
+	
+</table>
+
+<br>
+<div>
+<h3>Nearest Bus Routes</h3> 
+<table class='grid o6'>
+<tr><td>Bus number</td><td>Distance in m</td></tr>
+
+ <tr><td>67</td><td> 100m</td></tr>
+
+ <tr><td>100</td><td> 300m</td></tr>
+
+ <tr><td>115</td><td> 300m</td></tr>
+
+ <tr><td>135</td><td> 300m</td></tr>
+
+ <tr><td>15</td><td> 300m</td></tr>
+
+ <tr><td>205</td><td> 300m</td></tr>
+
+ <tr><td>25</td><td> 300m</td></tr>
+
+ <tr><td>254</td><td> 300m</td></tr>
+
+ <tr><td>40</td><td> 300m</td></tr>
+
+ <tr><td>42</td><td> 300m</td></tr>
+
+ <tr><td>710</td><td> 300m</td></tr>
+
+ <tr><td>742</td><td> 300m</td></tr>
+
+ <tr><td>743</td><td> 300m</td></tr>
+
+ <tr><td>744</td><td> 300m</td></tr>
+
+ <tr><td>78</td><td> 300m</td></tr>
+
+ <tr><td>MK1</td><td> 300m</td></tr>
+
+ <tr><td>N15</td><td> 300m</td></tr>
+
+ <tr><td>N253</td><td> 300m</td></tr>
+
+ <tr><td>N50</td><td> 300m</td></tr>
+
+ <tr><td>N550</td><td> 300m</td></tr>
+
+ <tr><td>N551</td><td> 300m</td></tr>
+
+ <tr><td>NATEXP/KENT</td><td> 300m</td></tr>
+
+ <tr><td>741</td><td> 400m</td></tr>
+
+ <tr><td>149</td><td> 500m</td></tr>
+
+ <tr><td>242</td><td> 500m</td></tr>
+
+ <tr><td>26</td><td> 500m</td></tr>
+
+ <tr><td>344</td><td> 500m</td></tr>
+
+ <tr><td>35</td><td> 500m</td></tr>
+
+ <tr><td>388</td><td> 500m</td></tr>
+
+ <tr><td>47</td><td> 500m</td></tr>
+
+ <tr><td>48</td><td> 500m</td></tr>
+
+ <tr><td>731</td><td> 500m</td></tr>
+
+ <tr><td>735</td><td> 500m</td></tr>
+
+ <tr><td>736</td><td> 500m</td></tr>
+
+ <tr><td>761</td><td> 500m</td></tr>
+
+ <tr><td>762</td><td> 500m</td></tr>
+
+ <tr><td>763</td><td> 500m</td></tr>
+
+ <tr><td>764</td><td> 500m</td></tr>
+
+ <tr><td>769</td><td> 500m</td></tr>
+
+ <tr><td>770</td><td> 500m</td></tr>
+
+ <tr><td>8</td><td> 500m</td></tr>
+
+ <tr><td>KF/KF</td><td> 500m</td></tr>
+
+ <tr><td>N26</td><td> 500m</td></tr>
+
+ <tr><td>N35</td><td> 500m</td></tr>
+
+ <tr><td>N8</td><td> 500m</td></tr>
+
+ <tr><td>11</td><td> 700m</td></tr>
+
+ <tr><td>23</td><td> 700m</td></tr>
+
+ <tr><td>N11</td><td> 700m</td></tr>
+
+ <tr><td>133</td><td> 800m</td></tr>
+
+ <tr><td>153</td><td> 800m</td></tr>
+
+ <tr><td>214</td><td> 800m</td></tr>
+
+ <tr><td>271</td><td> 800m</td></tr>
+
+ <tr><td>796</td><td> 800m</td></tr>
+
+ <tr><td>N133</td><td> 800m</td></tr>
+
+ <tr><td>RV1</td><td> 800m</td></tr>
+
+ <tr><td>737</td><td> 900m</td></tr>
+
+ <tr><td>LBN</td><td> 900m</td></tr>
+
+ <tr><td>ELS</td><td> 1000m</td></tr>
+
+ <tr><td>ELW</td><td> 1000m</td></tr>
+
+ <tr><td>D3</td><td> 1200m</td></tr>
+
+ <tr><td>243</td><td> 1700m</td></tr>
+
+ <tr><td>55</td><td> 1700m</td></tr>
+
+ <tr><td>N55</td><td> 1700m</td></tr>
+
+</table>
+</div>
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br><br>
+
+
+<div class=push ></div>
+
+
+
+</div>
+<div class=footer ><a href='/cgi-bin/Beating-The-Rental-Shortage-in-London.aspx' >Beating the London rental shortage</a> <a href='/Flatshare/Flatsharing.aspx' >London flatshare guide</a><br><a href='/TC.htm' >Terms and Conditions of Use and Companies House</a></div>
+
+
+<script src='/__lib.js' type="text/javascript"></script>
+<script  type="text/javascript">var maxid=510788;</script>
+<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false"></script>
+<script src='/js3.js' type="text/javascript" ></script>
+
+
+
+<script type="text/javascript">
+	$('bdy').onmousedown=function(e){
+
+        		document.body.focus();
+
+        		$('bdy').onselectstart = function () { return false; };
+        		document.ondragstart = function() { return false; };
+        
+        		// prevent text selection (except IE)
+        		return false;
+
+
+	}
+
+	//document.oncontextmenu = function() { return false; }
+
+	//document.onmousedown   = function md(e) { 
+  		//try { if (event.button==2||event.button==3) return false; }  
+  		//catch (e) { if (e.which == 3) return false; } 
+	//}
+
+	
+
+
+</script>
+
+
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-5726379-5");
+	pageTracker._trackPageview();
+</script>
+
+<script type="text/javascript">
+	var pageTracker = _gat._getTracker("UA-5726379-11");
+	pageTracker._trackPageview();
+</script>
+
+
+
+</body>
+
+
+</html>
+
+
+
+
